@@ -1,3 +1,5 @@
+import 'awnser_model.dart';
+
 class QuestionModel {
   final String title;
   final List<AwnserModel> awnsers;
